@@ -1,1 +1,2 @@
 # Financial-Calculator
+This app was made after I was frustrated that there was no real application available to mimic the financial calculators required for my finance courses. Specificially, this calculator will seek to replace the Texas Instrument Business Aanlayst II; a staple among finance students accross North America. Although these calculators are essentially archaic and extinct from the workplace, these are stil required by many academic institutions as bringing Excel to an exam would cause too many logistical headaches.
